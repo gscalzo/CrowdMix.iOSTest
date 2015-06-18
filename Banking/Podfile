@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '6.0'
+
+target 'Banking' do
+  pod 'AFNetworking', '~> 2.5.4'
+end
+
+target 'BankingTests' do
+  pod 'Kiwi', '~> 2.3.1'
+  pod 'OCMock', '~> 3.1.2'
+end
+
