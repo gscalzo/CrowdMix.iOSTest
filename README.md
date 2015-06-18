@@ -8,7 +8,7 @@ You must implement an iOS app that allows you to add and withdraw money from you
 * as a user I want to see the list of the bank statements
 
 ## UX
-![wireframe(https://github.com/gscalzo/CrowdMix.iOSTest/blob/master/doc/wireframe.png)
+![wireframe](https://github.com/gscalzo/CrowdMix.iOSTest/blob/master/doc/wireframe.png)
 
 ## Rules
 * Split the features to implement in complete task to show the value to the stakeholders
